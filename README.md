@@ -11,12 +11,6 @@ Je suis développeur junior.
 **Mobile Development**  
 **Database Management**
 
-## GitHub 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LylianMichel&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub de LylianMichel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LylianMichel&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</p>
 
 ## Langages & outils
 
